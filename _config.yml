@@ -1,7 +1,21 @@
-## Site Settings
+# Site
+repository: sainaath-r/sainaath.github.io
+
+# Personal info
 name: Sainaath Ramanathan
 title: Cloud Solutions Architect
+email: sainaath.ramanathan@hotmail.com
+website: sainaath-r.github.io
 
+# Footer
+footer_show_references: true
 
-## Build Settings
-remote_theme: sproogen/modern-resume-theme
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
