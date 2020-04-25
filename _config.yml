@@ -1,3 +1,7 @@
-theme: jekyll-theme-hacker
-title: Sainaath Ramanathan
+## Site Settings
 name: Sainaath Ramanathan
+title: Cloud Solutions Architect
+
+
+## Build Settings
+remote_theme: sproogen/modern-resume-theme
