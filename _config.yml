@@ -7,9 +7,6 @@ title: Cloud Solutions Architect
 email: sainaath.ramanathan@hotmail.com
 website: sainaath-r.github.io
 
-# Footer
-footer_show_references: true
-
 # Build settings
 remote_theme: sproogen/resume-theme
 
