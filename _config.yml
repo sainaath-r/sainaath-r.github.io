@@ -10,6 +10,10 @@ website: sainaath-r.github.io
 ## Dark Mode
 darkmode: true
 
+# Social links
+github_username:  sainaath-r
+linkedin_username: sainaath.ramanathan
+
 # Build settings
 remote_theme: sproogen/resume-theme
 
